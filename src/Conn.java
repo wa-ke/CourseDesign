@@ -14,7 +14,7 @@ public class Conn {
         try {
             Class.forName(DBDRIVER);
             connection=DriverManager.getConnection(DBURL,"root","root");
-            System.out.println("连接成功");
+//            System.out.println("连接成功");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (SQLException e) {
@@ -22,19 +22,19 @@ public class Conn {
         }
     }
     public void updata(String sql){
-        Conn conn=new Conn();
+        Connection conn=getConnection();
         try {
-            Statement statement=conn.getConnection().createStatement();
+            Statement statement=conn.createStatement();
             statement.executeUpdate(sql);
         } catch (SQLException e) {
             e.printStackTrace();
         }
     }
     public ResultSet select(String sql){
-        Conn conn=new Conn();
+        Connection conn=getConnection();
         ResultSet resultSet=null;
         try {
-            Statement statement=conn.getConnection().createStatement();
+            Statement statement=conn.createStatement();
             resultSet=statement.executeQuery(sql);
         } catch (SQLException e) {
             e.printStackTrace();

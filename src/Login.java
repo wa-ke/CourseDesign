@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 public class Login {
     public static void main(String[] args) {
@@ -29,6 +31,7 @@ public class Login {
         jFrame.add(jPanel);
         jFrame.add(jPanel1);
         jFrame.add(jPanel2);
+
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setVisible(true);
         jButton1.addActionListener(new ActionListener() {
@@ -36,15 +39,39 @@ public class Login {
             public void actionPerformed(ActionEvent e) {
                 jTextField.setText("");
                 jPasswordField.setText("");
-//                System.exit(0);
             }
         });
-//        jButton.addActionListener(new ActionListener() {
-//            @Override
-//            public void actionPerformed(ActionEvent e) {
-//
-//            }
-//        });
-//        Conn conn=new Conn();
+        jButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                    Conn conn=new Conn();
+                    String uname=jTextField.getText();
+                    String sql="select upass from user where uname='"+uname+"'";
+                    String upass=new String();
+                    ResultSet resultSet=conn.select(sql);
+                    try {
+                        while (resultSet.next()){
+                            upass=resultSet.getString(1);
+                        }
+                    } catch (SQLException e1) {
+                        e1.printStackTrace();
+                    }
+                    String pass=new String(jPasswordField.getPassword());
+                    if (upass.equals(pass)&&!uname.equals("")&&!upass.equals("")){
+                        JOptionPane.showMessageDialog(jFrame,"登录成功");
+                        jFrame.dispose();
+                        try {
+                            new Pann().setVisible(true);
+                        } catch (SQLException e1) {
+                            e1.printStackTrace();
+                        }
+                    }else {
+                        JOptionPane.showMessageDialog(jFrame,"登录失败");
+                    }
+
+            }
+        });
+
+
     }
 }
