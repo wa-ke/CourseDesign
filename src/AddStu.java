@@ -37,6 +37,7 @@ public class AddStu extends JDialog {
             @Override
             public void actionPerformed(ActionEvent e) {
                 Conn conn=new Conn();
+
                 String sql="INSERT INTO `stu` (`stunum`, `stuname`, `stusex`, `stuage`, `stupho`, `stuadd`) VALUES ("+jTextField.getText()+", '"+jTextField1.getText()+"', '"+jTextField2.getText()+"', "+jTextField3.getText()+", "+jTextField4.getText()+", '"+jTextField5.getText()+"') ";
                 String sql1="INSERT INTO `stusocre` (`stunum`, `stuname`) VALUES ("+jTextField.getText()+", '"+jTextField1.getText()+"')";
                 conn.updata(sql);

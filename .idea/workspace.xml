@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6fb274-aad1-4ebf-9bff-35ddd7283b0a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/MigLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-core.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddStu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DB_Out.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DelStu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JTableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pann.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelSco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SocSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stu_Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpDataStu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UpdateSoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoureseDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoureseDesign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoureseDesign/Conn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoureseDesign/Conn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoureseDesign/Login$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoureseDesign/Login$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoureseDesign/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoureseDesign/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoureseDesign/DB_Out.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoureseDesign/Stu_Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddStu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DelStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DelStu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UpDataStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UpDataStu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UpdateSoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UpdateSoc.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,22 +54,12 @@
       <file leaf-file-name="Pann.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Pann.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-506">
-              <caret line="165" column="60" selection-start-line="165" selection-start-column="60" selection-end-line="165" selection-end-column="60" />
+            <state relative-caret-position="368">
+              <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#590#591#0" expanded="true" />
                 <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#3934#4135#0" expanded="true" />
-                <element signature="e#4134#4135#0" expanded="true" />
-                <element signature="e#4443#4644#0" expanded="true" />
-                <element signature="e#4643#4644#0" expanded="true" />
-                <element signature="e#4985#5206#0" expanded="true" />
-                <element signature="e#5205#5206#0" expanded="true" />
-                <element signature="e#6182#6383#0" expanded="true" />
-                <element signature="e#6382#6383#0" expanded="true" />
-                <element signature="e#6857#7058#0" expanded="true" />
-                <element signature="e#7057#7058#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,12 +68,10 @@
       <file leaf-file-name="UpdateSoc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UpdateSoc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="78" column="40" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+            <state relative-caret-position="1035">
+              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3135#3469#0" expanded="true" />
-                <element signature="e#3468#3469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+            <state relative-caret-position="529">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -129,8 +98,40 @@
       <file leaf-file-name="UpDataStu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UpDataStu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="89" column="102" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="102" />
+            <state relative-caret-position="322">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#945#1149#0" expanded="true" />
+                <element signature="e#1148#1149#0" expanded="true" />
+                <element signature="e#4400#4734#0" expanded="true" />
+                <element signature="e#4733#4734#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DelStu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DelStu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#982#1187#0" expanded="true" />
+                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="e#3146#3479#0" expanded="true" />
+                <element signature="e#3478#3479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JTableDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JTableDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,13 +139,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddStu.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2254">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddStu.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AddStu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="71" column="11" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="71" selection-end-column="11" />
+            <state relative-caret-position="216">
+              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2723#3057#0" expanded="true" />
+                <element signature="e#3056#3057#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,43 +164,6 @@
       </file>
       <file leaf-file-name="stusocre" pinned="false" current-in-tab="false">
         <entry file="das://1553327b-f603-4949-8fbf-bfeaa505b3b1/schema/stusoc/table/stusocre">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelSco.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SelSco.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SocSequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SocSequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1536#1537#0" expanded="true" />
-                <element signature="e#1608#1609#0" expanded="true" />
-                <element signature="e#1865#2199#0" expanded="true" />
-                <element signature="e#2198#2199#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stu" pinned="false" current-in-tab="false">
-        <entry file="das://1553327b-f603-4949-8fbf-bfeaa505b3b1/schema/stusoc/table/stu">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true" />
@@ -217,20 +192,20 @@
         <option value="$PROJECT_DIR$/src/demo.jfd" />
         <option value="$PROJECT_DIR$/src/JTableDemo/PutinStorage.java" />
         <option value="$PROJECT_DIR$/src/JTableDemo/MyFrame.java" />
-        <option value="$PROJECT_DIR$/src/Stu_Info.java" />
         <option value="$PROJECT_DIR$/src/JTableDemo.java" />
         <option value="$PROJECT_DIR$/src/DB_Out.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/demo.java" />
         <option value="$PROJECT_DIR$/src/Conn.java" />
-        <option value="$PROJECT_DIR$/src/UpDataStu.java" />
-        <option value="$PROJECT_DIR$/src/AddStu.java" />
-        <option value="$PROJECT_DIR$/src/DelStu.java" />
         <option value="$PROJECT_DIR$/src/Pann.java" />
         <option value="$PROJECT_DIR$/src/SelSco.java" />
         <option value="$PROJECT_DIR$/src/SocSequence.java" />
-        <option value="$PROJECT_DIR$/src/UpdateSoc.java" />
+        <option value="$PROJECT_DIR$/src/Stu_Info.java" />
         <option value="$PROJECT_DIR$/src/Login.java" />
+        <option value="$PROJECT_DIR$/src/UpDataStu.java" />
+        <option value="$PROJECT_DIR$/src/DelStu.java" />
+        <option value="$PROJECT_DIR$/src/UpdateSoc.java" />
+        <option value="$PROJECT_DIR$/src/AddStu.java" />
       </list>
     </option>
   </component>
@@ -260,6 +235,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,9 +254,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -431,12 +406,13 @@
       <workItem from="1546762056411" duration="21450000" />
       <workItem from="1546832373954" duration="17728000" />
       <workItem from="1546855723545" duration="3547000" />
-      <workItem from="1546859329620" duration="7262000" />
+      <workItem from="1546859329620" duration="7900000" />
+      <workItem from="1547034432233" duration="883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90891000" />
+    <option name="totallyTimeSpent" value="92412000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,13 +436,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.29469123" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.29469123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.29469123" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32827735" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32936078" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
@@ -479,6 +454,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32936078" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -740,50 +716,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_181/src.zip!/javax/swing/table/AbstractTableModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="295" selection-start-line="295" selection-end-line="295" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stu_Info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JTableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DB_Out.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DelStu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="81" column="11" lean-forward="true" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3146#3479#0" expanded="true" />
-            <element signature="e#3478#3479#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,36 +730,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UpDataStu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="89" column="102" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddStu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="71" column="11" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="71" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://1553327b-f603-4949-8fbf-bfeaa505b3b1/schema/stusoc/table/stusocre">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SelSco.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="598">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -833,14 +742,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SocSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="368">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1536#1537#0" expanded="true" />
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1865#2199#0" expanded="true" />
-            <element signature="e#2198#2199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -852,44 +757,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://1553327b-f603-4949-8fbf-bfeaa505b3b1/schema/stusoc/table/stusocre">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DB_Out.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stu_Info.java" />
+    <entry file="file://$PROJECT_DIR$/src/JTableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2254">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Pann.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="165" column="60" selection-start-line="165" selection-start-column="60" selection-end-line="165" selection-end-column="60" />
+        <state relative-caret-position="368">
+          <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#590#591#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#3934#4135#0" expanded="true" />
-            <element signature="e#4134#4135#0" expanded="true" />
-            <element signature="e#4443#4644#0" expanded="true" />
-            <element signature="e#4643#4644#0" expanded="true" />
-            <element signature="e#4985#5206#0" expanded="true" />
-            <element signature="e#5205#5206#0" expanded="true" />
-            <element signature="e#6182#6383#0" expanded="true" />
-            <element signature="e#6382#6383#0" expanded="true" />
-            <element signature="e#6857#7058#0" expanded="true" />
-            <element signature="e#7057#7058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UpDataStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#945#1149#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#4400#4734#0" expanded="true" />
+            <element signature="e#4733#4734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DelStu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#982#1187#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#3146#3479#0" expanded="true" />
+            <element signature="e#3478#3479#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UpdateSoc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="78" column="40" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+        <state relative-caret-position="1035">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3135#3469#0" expanded="true" />
-            <element signature="e#3468#3469#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/AddStu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="63" column="54" selection-start-line="63" selection-start-column="54" selection-end-line="63" selection-end-column="54" />
+        <state relative-caret-position="216">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2723#3057#0" expanded="true" />
+            <element signature="e#3056#3057#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

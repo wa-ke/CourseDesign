@@ -35,7 +35,7 @@ public class Login {
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jFrame.setVisible(true);
         jButton1.addActionListener(new ActionListener() {
-            @Override
+            @Override 
             public void actionPerformed(ActionEvent e) {
                 jTextField.setText("");
                 jPasswordField.setText("");

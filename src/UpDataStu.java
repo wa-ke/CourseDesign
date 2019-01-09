@@ -24,7 +24,16 @@ public class UpDataStu extends JDialog {
 //        jPanel.add(button);
 //        jPanel.add(button1);
         add(jPanel);
-        DefaultTableModel model=new DefaultTableModel();
+        DefaultTableModel model=new DefaultTableModel(){
+            @Override
+            public boolean isCellEditable(int row, int column) {
+                if (row ==0){
+                    return false;
+                }else{
+                    return true;
+                }
+            }
+        };
         model.setColumnIdentifiers(new Object[6]);
         model.addRow(new Object[]{"学号","姓名","性别","年龄","电话号码","地址"});
         Conn conn=new Conn();

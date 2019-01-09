@@ -37,7 +37,16 @@ public class UpdateSoc extends JDialog {
 //            conn.updata(sql2);
             model.addRow(new Object[]{stunum,stuname,java,php,mfc,en,computer});
         }
-        JTable jTable=new JTable(model);
+        JTable jTable=new JTable(model){
+            @Override
+            public boolean isCellEditable(int row, int column) {
+                if (row == 0){
+                    return false;
+                }else {
+                    return true;
+                }
+            }
+        };
         model.addTableModelListener(new TableModelListener() {
             @Override
             public void tableChanged(TableModelEvent e) {
